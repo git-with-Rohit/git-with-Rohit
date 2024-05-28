@@ -20,45 +20,21 @@ I'm an experienced software engineer with a strong background in C++, Python, pr
 ### Tech Stack
 
 #### Programming Languages
-- C++
-- Python
-- Java
-- JavaScript
+- C++, Python, Java, JavaScript
 
 #### Web Technologies
-- HTML5
-- CSS3
-- React
-- TypeScript
-- Flask
-- Node.js
-- Tailwind CSS
-- Radix UI
-- Next.js
+- HTML5, CSS3, React, TypeScript, Flask, Node.js, Tailwind CSS, Radix UI, Next.js
 
 #### Database Management
-- MySQL
-- T-SQL
-- MongoDB
+- MySQL, T-SQL, MongoDB
 
 #### Cloud Services
-- AWS S3
-- AWS EC2
-- AWS CloudFront
-- Docker
+- AWS S3, AWS EC2, AWS CloudFront, Docker
 
 #### Tools & Platforms
-- REST API
-- Jira
-- GitLab
-- FastAPI
-- TensorFlow
-- Deep Learning
+- REST API, Jira, GitLab, FastAPI, TensorFlow, Deep Learning
 
 #### Testing & Version Control
-- Jest
-- Selenium
-- Pytest
-- Git
+- Jest, Selenium, Pytest, Git
 
 Feel free to reach out via [email](mailto:connect2rohitkmr@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/itz-rohit/).
