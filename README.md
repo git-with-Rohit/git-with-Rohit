@@ -29,7 +29,7 @@ I'm an experienced software engineer with a strong background in C++, Python, pr
 - MySQL, T-SQL, MongoDB
 
 #### Cloud Services
-- AWS S3, AWS EC2, AWS CloudFront, Docker
+- AWS services, Docker
 
 #### Tools & Platforms
 - REST API, Jira, GitLab, FastAPI, TensorFlow, Deep Learning
