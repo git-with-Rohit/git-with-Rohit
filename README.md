@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm an experienced software engineer with a strong background in C++, Python, product design, UI development, and web development. I have a proven track record of delivering innovative software solutions and enhancing product performance.
+I'm an experienced software & data engineer with a strong background in C++, Python, product design, UI and web development. I have a proven track record of delivering innovative software solutions and enhancing product performance.
 
 ### Key Skills
 - 💻 **Software Development**
