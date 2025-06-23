@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm an experienced software & data engineer with a strong background in C++, Python, product design, UI and web development. I have a proven track record of delivering innovative software solutions and enhancing product performance.
+I'm a software and game developer with deep experience in C++ and Python, specialising in high-performance applications, real-time systems, and interactive 3D environments. I’ve contributed to cross-platform games, VR/AR tools, and data-driven products—delivering robust, innovative solutions across worlwide teams.
 
 ### Key Skills
 - 💻 **Software Development**
