@@ -12,6 +12,7 @@ I'm an experienced software & data engineer with a strong background in C++, Pyt
 
 ### Key Skills
 - 💻 **Software Development**
+- 🌐 **Game Development**
 - 🌐 **Web Development**
 - ☁️ **Cloud Computing**
 - 🎨 **User Experience (UX) Design**
