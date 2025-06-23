@@ -27,6 +27,13 @@ I'm an experienced software & data engineer with a strong background in C++, Pyt
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Game Development
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Niagara](https://img.shields.io/badge/Niagara_FX-9146FF?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blueprints](https://img.shields.io/badge/Blueprints-0D1117?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Sequencer](https://img.shields.io/badge/Sequencer-F700FF?style=for-the-badge&logo=unrealengine&logoColor=white)
+
 #### Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,6 +67,7 @@ I'm an experienced software & data engineer with a strong background in C++, Pyt
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Perforce](https://img.shields.io/badge/Perforce-404D5C?style=for-the-badge&logo=perforce&logoColor=white)
 
 ---
 
